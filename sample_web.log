@@ -1,0 +1,8 @@
+2025-10-05 08:15:32 INFO User login successful: user1
+2025-10-05 08:17:44 ERROR Failed login attempt: user2
+2025-10-05 08:18:12 INFO Page accessed: /home
+2025-10-05 08:19:01 WARNING Password attempt limit nearing: user2
+2025-10-05 08:20:55 INFO User logout: user1
+2025-10-05 08:22:18 ERROR Database connection failed
+2025-10-05 08:25:00 INFO User login successful: user3
+2025-10-05 08:30:15 INFO Page accessed: /dashboard
